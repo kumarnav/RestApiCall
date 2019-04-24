@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="desc">APRM Logo</string>
+    <string name="aprm_app">APRM Mobile App</string>
+    <string name="usr">Username</string>
+    <string name="pwd">Password</string>
+    <string name="login">Login</string>
+    <string name="wlcm">Welcome to APRM</string>
+    <string name="logout">Logout</string>
+    <string name="IncrctMsg">No Of Attempts Remaining:: </string>
+    <string name="openlink">Open Link</string>
+    <string name="title_activity_aprm__widget">APRM_Widget</string>
+</resources>
